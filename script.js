@@ -1,5 +1,5 @@
 function firstWord(s) {
- return s === "" ? "":s.split()[0]
+ return s === "" ? "":s.split(' ')[0]
 }
 
 // Do not change the code below
